@@ -32,7 +32,7 @@
     {
         "id":1,
         "name":"3 Phase Lift UPS",
-        "small_image": ["assets/images/products/pfc on line-small - 00 - sq.png"],
+        "small_image": ["assets/images/products/3 phase lift ups - 2.png"],
         "image": ["assets/images/products/pfc on line-medium - 00 - sq.png"],
         "description": "Available in 6-20 KVA",
         "features": ["High Reliability with DSP Sine Wave Technology","Less Maintenance & Eco Friendly","Load Sensing with Smart Control","Display All parameters with LED Indications","Facility for Manual Bypass"],
@@ -230,7 +230,7 @@
     {
         "id":8,
         "name":"Digital Power Conditioner",
-        "small_image": ["assets/images/products/pfc on line-small - 00 - sq.png"],
+        "small_image": ["assets/images/products/Digital Power Conditioner - 8.png"],
         "image": ["assets/images/products/pfc on line-medium - 00 - sq.png"],
         "description": "Available in Ranges 500VA to 5kVA",
         "features": [],
@@ -290,7 +290,7 @@
     {
         "id":10,
         "name":"Power Strip",
-        "small_image": ["assets/images/products/pfc on line-small - 00 - sq.png"],
+        "small_image": ["assets/images/products/power strip - 10.png"],
         "image": ["assets/images/products/pfc on line-medium - 00 - sq.png"],
         "description": "Available in 5 Amp capacity",
         "features": [],
@@ -312,7 +312,7 @@
     {
         "id":11,
         "name":"Line-Interactive UPS Systems",
-        "small_image": ["assets/images/products/pfc on line-small - 00 - sq.png"],
+        "small_image": ["assets/images/products/Line Interactive Ups System - 11.png"],
         "image": ["assets/images/products/pfc on line-medium - 00 - sq.png"],
         "description": "Special UPS for Elevator & Weighing Systems. Available in 0.5 to 2,5 kVA",
         "features": [],
